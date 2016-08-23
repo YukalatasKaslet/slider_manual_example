@@ -41,7 +41,7 @@ h2 {
 }
 
 .frames > li {
-  /*position: relative;*/
+  position: relative;/*con esto ya se ve el <h2> */
   float: left;
   width: 33.33333%; /* (100 / número de imágenes) */
 }
